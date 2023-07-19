@@ -1,6 +1,12 @@
 # threads_clone
 
-A new Flutter project.
+This is a UI of thread app developed with flutter with clean architecture.
+
+## 📸 ScreenShots
+
+| 1 | 
+|------|
+|<img src="screenshot.png" width="400">|
 
 ## Getting Started
 
